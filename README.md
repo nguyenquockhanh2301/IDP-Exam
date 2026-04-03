@@ -1,12 +1,13 @@
 ## Running and building
 
-To run the app,
+To run the app:
+
+```
 
 dart pub global activate webdev
 webdev serve
-----
 
-To build a production version ready for deployment,
+```
+To build a production version ready for deployment:
 
 webdev build
-----
